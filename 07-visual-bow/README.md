@@ -1,4 +1,4 @@
-# 7 · Images with visual Bag of Words
+# 7 · What's in this photo?
 
 ## The problem
 

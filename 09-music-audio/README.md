@@ -1,4 +1,4 @@
-# 9 · A playlist from audio only
+# 9 · What should I listen to next?
 
 ## The problem
 

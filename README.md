@@ -22,10 +22,10 @@ that apply to every project.
 | 3 | [My phone knows what I'm doing](03-phone-activity/) | Can I recognise activity from a phone's accelerometer, on new people and phones? | UCI HAR + MotionSense | Download script |
 | 4 | [What can I cook today?](04-recipe-search/) | I want cuisine X and I have these ingredients: which dishes can I make? | Food.com + What's Cooking (Kaggle) | Download script |
 | 5 | [How much is this flat worth?](05-airbnb-bcn/) | What does a Barcelona Airbnb cost per night, and what makes it expensive? | Inside Airbnb, Barcelona | Yes (listings) |
-| 6 | [News in Catalan](06-catalan-news/) | What is this news item about, and which ones are similar? | TeCla (Projecte AINA) | Download script |
-| 7 | [Images with visual Bag of Words](07-visual-bow/) | Can a model recognise what is in a photo without deep learning? | Indian Food (or Food-101, Oxford Buildings) | Download script |
-| 8 | [Video game recommender](08-steam-recommender/) | Which Steam game will I like? | Game Recommendations on Steam (Kaggle) | Yes (sample) |
-| 9 | [A playlist from audio only](09-music-audio/) | What genre is this song, and which songs sound like it? | GTZAN (audio only) | Download script |
+| 6 | [What is this news story about?](06-catalan-news/) | What is this news item about, and which ones are similar? | TeCla (Projecte AINA) | Download script |
+| 7 | [What's in this photo?](07-visual-bow/) | Can a model recognise what is in a photo without deep learning? | Indian Food (or Food-101, Oxford Buildings) | Download script |
+| 8 | [Which game will I like?](08-steam-recommender/) | Which Steam game will I like? | Game Recommendations on Steam (Kaggle) | Yes (sample) |
+| 9 | [What should I listen to next?](09-music-audio/) | What genre is this song, and which songs sound like it? | GTZAN (audio only) | Download script |
 
 Each folder has a `README.md` with the problem, some open questions to get you thinking, a
 description of the dataset and how to get it. **There is no step-by-step plan on purpose**:

@@ -1,4 +1,4 @@
-# 8 · Video game recommender
+# 8 · Which game will I like?
 
 ## The problem
 

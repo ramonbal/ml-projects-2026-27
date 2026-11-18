@@ -1,4 +1,4 @@
-# 6 · News in Catalan
+# 6 · What is this news story about?
 
 ## The problem
 
