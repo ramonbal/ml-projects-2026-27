@@ -1,0 +1,26 @@
+# Downloaded data (use each project's download script)
+03-phone-activity/data/
+04-recipe-search/data/
+06-catalan-news/data/
+07-visual-bow/data/
+09-music-audio/data/
+08-steam-recommender/data/full/
+05-airbnb-bcn/data/*/reviews.csv.gz
+05-airbnb-bcn/data/*/calendar.csv.gz
+01-bicing/data/*.csv
+!01-bicing/data/estacions_info_2026_09.csv
+*.zip
+*.tar.gz
+*.tgz
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+# OS / Office
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
