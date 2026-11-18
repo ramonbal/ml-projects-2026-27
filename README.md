@@ -11,7 +11,7 @@ that apply to every project.
 | **Groups** | 3 students |
 | **Duration** | 4 weeks, with a follow-up session every week |
 | **Weight** | 60% of the final grade |
-| **Slides** | [`Projects-Introduction-2026-27.pdf`](Projects-Introduction-2026-27.pdf) ([pptx](Projects-Introduction-2026-27.pptx)) |
+| **Slides** | [`Projects-Introduction-2026-27.pdf`](Projects-Introduction-2026-27.pdf) |
 
 ## The proposals
 
